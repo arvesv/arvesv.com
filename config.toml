@@ -1,0 +1,4 @@
+baseURL = "http://arvesv.com/"
+languageCode = "en-uk"
+title = "Arve's Playground"
+theme = "ananke"
